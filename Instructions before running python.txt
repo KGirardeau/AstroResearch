@@ -1,0 +1,8 @@
+Instructions before running python file:
+-download environment.yml, analytical_cube_gravity.py, and mesh_plotting.py from https://github.com/esa/polyhedral-gravity-model/blob/main/script/environment.yml
+-open Anaconda_prompt
+-open folder containing environment.yml by typing: cd Desktop\polyhedral-gravity-jupyter-notebook
+-create environment by typing: conda env create -f environment.yml
+-install spyder by typing: conda install spyder
+-open spyder by typing: spyder
+-run the polyhedral_model.py code
